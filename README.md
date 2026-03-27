@@ -1,4 +1,4 @@
-# digital-literacy-project-1 (README FILE)
+# digital-literacy-project
 
 # Digital Literacy Project
 
